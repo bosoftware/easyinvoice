@@ -1,0 +1,12 @@
+platform :ios, '8.0'
+use_frameworks!
+
+
+#source 'https://github.com/CocoaPods/Specs.git'
+
+#pod 'pjsip', :git => 'https://github.com/chebur/pjsip.git', :commit => '890929be9d82900cba8996427725794a244725b5'
+
+target 'invoiceProject' do
+  pod 'MBProgressHUD'
+  pod 'FMDB'
+end

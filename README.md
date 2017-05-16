@@ -20,7 +20,7 @@ Try to use native react to build mobie apps. not finished.
 
 ## Authors
 
-* **Bo Wang** - *Initial work* - [Bo Wang's Software](https://thebosoftware.com)
+* **Bo Wang** - *Initial work* - [Bo Wang's Software](http://thebosoftware.com)
 
 
 
